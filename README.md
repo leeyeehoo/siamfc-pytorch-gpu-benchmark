@@ -13,7 +13,7 @@ Well I do encountered some issue in trainning my own networks. The result seems 
 
 ## Benchmark
 
-https://github.com/bilylee/tracker_benchmark.git
+https://github.com/bilylee/tracker_benchmark
 
 ## References
 If you find this work useful, please consider citing
