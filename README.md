@@ -3,7 +3,7 @@
 This is the pytorch-version siamfc.
 
 Tutorial notebook is added.
-## prerequisites
+## Prerequisites
 
 strongly suggest that you need Anaconda Env. And a good Pytorch.
 
