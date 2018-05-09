@@ -7,7 +7,7 @@ Tutorial notebook is added.
 
 strongly suggest that you need Anaconda Env. And a good Pytorch.
 
-Well I do encountered some issue in trainning my own networks. The result seems a bit worse than the original networks. If you have any idea, feel free to contact me.
+I use a customed training method to reduplicate the result.
 
 ## Tutorials
 
