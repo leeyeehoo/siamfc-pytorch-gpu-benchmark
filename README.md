@@ -3,6 +3,9 @@
 This is the pytorch-version siamfc.
 
 Tutorial notebook is added.
+
+I borrowed some code from Huang's git: https://github.com/huanglianghua/siamfc-pytorch, many thanks.
+
 ## Prerequisites
 
 strongly suggest that you need Anaconda Env. And a good Pytorch.
