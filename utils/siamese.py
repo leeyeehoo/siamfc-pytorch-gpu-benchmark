@@ -52,7 +52,7 @@ class SiameseNet(nn.Module):
     def forward(self, z, x):
         output1 = self.forward_once(z)
         output2 = self.forward_once(x)
-        output = self.xcorr(z, x)
+        output = self.xcorr(output1, output2)
         output = self.bn_adjust(output)
         return output
     
